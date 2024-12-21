@@ -26,5 +26,8 @@ The core functionality of dynamic mock data generation remains unchanged, while 
 
 
 ## Status
-
 This project is currently under development. Contributions are welcome!
+
+
+## More Information
+I'm totally new to Go and open to any suggestions, feedback, and contributions. Feel free to reach out to me if you have any questions or ideas. Thanks for your interest in flapi-go!
